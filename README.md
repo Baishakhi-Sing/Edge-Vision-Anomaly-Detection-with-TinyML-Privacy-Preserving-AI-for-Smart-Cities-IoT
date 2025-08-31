@@ -1,4 +1,5 @@
-dge-Vision Anomaly Detection with TinyML
+### Dge-Vision Anomaly Detection with TinyML
+
 
 ⚡ TinyML-powered anomaly detection on the edge — deploying privacy-preserving computer vision models for smart cities, IoT, and Industry 4.0.
 
